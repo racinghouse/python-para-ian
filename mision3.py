@@ -1,0 +1,6 @@
+nombre=input("¿Cómo te llamás?")
+edad=input("¿Cuántos años tenés?")
+color=input("¿Cual es tu color favorito?")
+print("Hola",nombre)
+print("tenes", edad, "años")
+print("Tu color favorito es", color)
